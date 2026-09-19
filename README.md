@@ -1,17 +1,132 @@
-# React + Vite
+# 📝 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A **React + Vite based Mock Practical application** designed to help students practice practical questions in an interactive environment.
 
-Currently, two official plugins are available:
+The project provides a simple and user-friendly interface where students can attempt practical questions and improve their preparation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 📝 Mock practical question interface
+* ⚛️ Built with React.js
+* ⚡ Fast development using Vite
+* 🎨 Responsive and clean user interface
+* 🔄 Interactive React components
+* 📚 Useful for practical exam preparation
+* 💻 Easy to run locally and customize
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+* **React.js**
+* **Vite**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3**
+* **npm**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-# mock_practical
+## 📂 Project Structure
+
+```text
+mock_practical/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   └── ...
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/vaishali2801/mock_practical.git
+```
+
+### 2. Navigate to the Project
+
+```bash
+cd mock_practical
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at the local URL shown in your terminal, usually:
+
+```text
+http://localhost:5173
+```
+
+## 📌 Available Scripts
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## 🎯 Purpose
+
+The main purpose of this project is to provide a practical environment for students to:
+
+* Practice practical questions
+* Improve problem-solving skills
+* Understand React components
+* Prepare for practical examinations
+* Gain hands-on experience with React and Vite
+
+## 🔮 Future Improvements
+
+* Add more practical questions
+* Add question categories
+* Add timer functionality
+* Add score calculation
+* Add progress tracking
+* Add result summary
+* Add local storage/database support
+* Add authentication
+* Improve mobile responsiveness
+
+## 👩‍💻 Author
+
+**Vaishali Chauhan**
+
+B.Tech Information Technology Student
+
+GitHub: [vaishali2801](https://github.com/vaishali2801)
+
+## ⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+---
+
+Made with ❤️ using **React + Vite**
